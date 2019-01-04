@@ -12,8 +12,8 @@
     "blockedUrls": [],
 
     "sponsoring" : {
-        "home": "(this is a private instance)",
+        "home": "",
         "dashboard": null,
-        "about": "(this is a private instance)"
+        "about": ""
     }
 }
